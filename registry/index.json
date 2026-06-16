@@ -1,14 +1,5 @@
 {
   "registry_version": 1,
-  "updated_at": "2026-06-16T20:16:29Z",
-  "skills": [
-    {
-      "name": "circuit-breaker-agent",
-      "author_pubkey": "0f5b2c14f816687780e10686e6834b5d6ccf90bdf18dca5a3dab358f86448b97",
-      "sha256": "9b018af7b55c061c301d4d7c232df2e3e79316085a1ea96acdf8e5756eb0ac68",
-      "description": "Mencegah retry loop berulang dengan tracking kegagalan consecutive tool/model dan auto-escalation saat threshold tercapai.",
-      "sig": "544fbdbf57a13baabacd68c30984075e0032c8139f17868229144961c04d4d35632fa0836be4ff52c50c19e8d46bacaaa1645caa18deecd2487014e7126c2d0c",
-      "updated_at": "2026-06-16T20:16:29Z"
-    }
-  ]
+  "updated_at": "",
+  "skills": []
 }
